@@ -448,8 +448,8 @@ gun= 10
 # score_file.write("\n코딩 : 100")
 # score_file.close()
 
-# 파일 내용 읽기
-score_file = open("D:\Github\-Babo\mission\score.txt","r",encoding="utf8")
-print(score_file.read())
-score_file.close()
+# # 파일 내용 읽기
+# score_file = open("D:\Github\-Babo\mission\score.txt","r",encoding="utf8")
+# print(score_file.read())
+# score_file.close()
 
